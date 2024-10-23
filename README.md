@@ -1,4 +1,5 @@
-Workforce Dynamics Explorer - HR Analytics Dashboard
+  # Workforce Dynamics Explorer - HR Analytics Dashboard
+
 📊 Overview
 This project is an interactive HR analytics dashboard built using Tableau, utilizing HR data from Kaggle. The dashboard provides deep insights into employee attrition, workforce demographics, department-wise analysis, job satisfaction, and education field attrition.
 
